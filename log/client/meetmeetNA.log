@@ -1,0 +1,28 @@
+Mar 04, 2014 9:07:06 PM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 04, 2014 9:08:14 PM server.GameServerImpl doLog
+INFO: account suspended
+Mar 04, 2014 9:08:14 PM server.GameServerImpl doLog
+INFO: Account transfered to EU region
+Mar 04, 2014 9:17:12 PM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 04, 2014 9:17:50 PM server.GameServerImpl doLog
+INFO: Successfully signed in
+Mar 04, 2014 9:18:43 PM server.GameServerImpl doLog
+INFO: account suspended
+Mar 04, 2014 9:18:43 PM server.GameServerImpl doLog
+INFO: Account transfered to EU region
+Mar 04, 2014 9:32:22 PM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 04, 2014 9:32:41 PM server.GameServerImpl doLog
+INFO: Successfully signed in
+Mar 04, 2014 9:33:22 PM server.GameServerImpl doLog
+INFO: account suspended
+Mar 04, 2014 9:33:22 PM server.GameServerImpl doLog
+INFO: Account transfered to EU region
+Mar 12, 2014 4:37:17 AM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 12, 2014 4:37:34 AM server.GameServerImpl doLog
+INFO: account suspended
+Mar 12, 2014 4:37:34 AM server.GameServerImpl doLog
+INFO: Account transfered to EU region

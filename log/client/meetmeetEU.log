@@ -1,0 +1,18 @@
+Mar 04, 2014 9:08:14 PM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 04, 2014 9:08:47 PM server.GameServerImpl doLog
+INFO: Successfully signed in
+Mar 04, 2014 9:18:43 PM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 04, 2014 9:19:28 PM server.GameServerImpl doLog
+INFO: Successfully signed in
+Mar 04, 2014 9:20:18 PM server.GameServerImpl doLog
+INFO: account suspended
+Mar 04, 2014 9:33:22 PM server.GameServerImpl doLog
+INFO: Account Created 
+Mar 04, 2014 9:34:00 PM server.GameServerImpl doLog
+INFO: Successfully signed in
+Mar 04, 2014 9:34:24 PM server.GameServerImpl doLog
+INFO: account suspended
+Mar 12, 2014 4:37:34 AM server.GameServerImpl doLog
+INFO: Account Created 
